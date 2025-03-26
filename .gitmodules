@@ -1,0 +1,4 @@
+[submodule "bash-tpl-repo"]
+	path = bash-tpl-repo
+	url = git@github.com:CodeBeast357/bash-tpl.git
+	branch = main
